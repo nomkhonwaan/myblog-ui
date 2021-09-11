@@ -1,4 +1,4 @@
-# myblog_uio
+# myblog_ui
 
 A new Flutter project.
 
