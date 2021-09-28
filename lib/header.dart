@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
 
-class Single extends StatelessWidget {
+class Header extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container();
